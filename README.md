@@ -6,4 +6,4 @@
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Light-47" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Light-47&theme=xcode" /> </div>
+[![Song's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Light-47&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
