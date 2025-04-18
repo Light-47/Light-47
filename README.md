@@ -1,5 +1,5 @@
 ## Hi👋
 
-[![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-47&show_icons=true&theme=vue-dark)](https://github.com/Light-47/github-readme-stats)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Light-47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-47&hide_progress=true)
