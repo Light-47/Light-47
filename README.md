@@ -9,6 +9,8 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<img src="https://badges.toozhao.com/badges/01JSZY7BEB0WS6GKTKA47X4AEC/green.svg" />
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Light-47/Light-47/blob/output/github-contribution-grid-snake-dark.svg" />
