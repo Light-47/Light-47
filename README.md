@@ -10,8 +10,10 @@
 <!-- 分割线 -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-<!-- Badge -->
-<img src="https://img.shields.io/badge/Dev%20Stats-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Page Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Light-47&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 <!-- Snake Code Contribution Map -->
 <picture>
